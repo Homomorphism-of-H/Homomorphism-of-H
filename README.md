@@ -1,1 +1,1 @@
-I'm a hobbyist mathematician and programmer, I program mainly in rust and python but am open to trying near about anything else. I use NixOS btw.
+I'm a mathematician and programmer. Most of my projects are in Rust and Python, with a hearty dash of Nix.
